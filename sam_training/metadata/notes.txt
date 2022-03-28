@@ -1,0 +1,27 @@
+for i in range(index):
+	bench_max = i[1]
+	ohp_max = i[2]
+	unit = i[3]
+	
+	if unit = "lbs":
+		day1 = [[]]
+		pd.dataframe(day1)
+		round to nearest multiple of 5
+	else
+		day1 = [[]]
+		pd.dataframe(day1)
+		round to nearest multiple of 2.5
+
+each df has to = 1 sheet in the workbook
+
+will need to merge "A1:J2"
+will need to merge "B4:G4", "B13:G13", "B22:G22"
+
+writer.save(/specify/save/directory/here/)
+
+Switches
+* save location
+* bench max
+* ohp max
+* lbs/kgs
+
