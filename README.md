@@ -2,5 +2,5 @@
 Adam L. Soubh  
 copyright www.website.com  
 ***
-This repo contains core code for generation of weightlifting programs.
+This repo contains code for generation of weightlifting programs.
 ***
